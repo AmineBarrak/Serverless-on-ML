@@ -1,137 +1,137 @@
-Status,Authors,Title,Year
-ACCEPTED,"Lopez Garcia A., Tran V., Alic A.S., Caballer M., Plasencia I.C., Costantini A., Dlugolinsky S., Duma D.C., Donvito G., Gomes J., Heredia Cacha I., De Lucas J.M., Ito K., Kozlov V.Y., Nguyen G., Orviz Fernandez P., Sustr Z., Wolniewicz P., Antonacci M., Zu Castell W., David M., Hardt M., Lloret Iglesias L., Molto G., Plociennik M.",A cloud-based framework for machine learning workloads and applications,2020
-REJECTED,"Ganchev I., Ji Z., O'Droma M.",A conceptual framework for building a mobile services' recommendation engine,2016
-REJECTED,"Alghamdi R., Bellaiche M.",A Deep Intrusion Detection System in Lambda Architecture Based on Edge Cloud Computing for IoT,2021
-REJECTED,"Demertzis K., Iliadis L., Anezakis V.-D.",A machine hearing framework for real-time streaming analytics using lambda architecture,2019
-REJECTED,"Gueye S.M., Diop A., Gueye A.D.",A machine learning model on virtual university of senegal’s educational data based on lambda architecture.,2020
-ACCEPTED,"Gandhi U., Bothera A., Garg N., Neeraj, Gupta I.",A Machine Learning-Based Approach for Efficient Cloud Service Selection,2022
-ACCEPTED,"Soltani B., Ghenai A., Zeghib N.",A migration-based approach to execute long-duration multi-cloud serverless functions,2018
-REJECTED,"Chen D., Gao M., Liu A., Chen M., Zhang Z., Feng Y.",A Recurrent Neural Network Based Approach for Web Service QoS Prediction,2019
-REJECTED,"Li D., Pyke R., Jiang R.",A Scalable Cloud-based Architecture to Deploy JupyterHub for Computational Social Science Research,2021
-ACCEPTED,"Naranjo D.M., Risco S., Moltó G., Blanquer I.",A serverless gateway for event-driven machine learning inference in multiple clouds,2021
-REJECTED,"Nurminen J.K., Mfula H.",A Unified Framework for 5G Network Management Tools,2019
-ACCEPTED,"Naranjo D.M., Risco S., de Alfonso C., Pérez A., Blanquer I., Moltó G.",Accelerated serverless computing based on GPU virtualization,2020
-ACCEPTED,"Pandya A., Odunsi O., Liu C., Cuzzocrea A., Wang J.",Adaptive and Efficient Streaming Time Series Forecasting with Lambda Architecture and Spark,2020
-ACCEPTED,"Flores H., Nurmi P., Hui P.",AI on the Move: From On-Device to On-Multi-Device,2019
-ACCEPTED,"Jarachanthan J., Chen L., Xu F., Li B.",AMPS-Inf: Automatic Model Partitioning for Serverless Inference with Cost Efficiency,2021
-ACCEPTED,"Wen J., Chen Z., Liu Y., Lou Y., Ma Y., Huang G., Jin X., Liu X.",An empirical study on challenges of application development in serverless computing,2021
-REJECTED,"Yuvaraj N., Karthikeyan T., Praghash K.",An Improved Task Allocation Scheme in Serverless Computing Using Gray Wolf Optimization (GWO) Based Reinforcement Learning (RIL) Approach,2021
-REJECTED,"Patel V., Kanani S., Pathak T., Patel P., Ali M.I., Breslin J.",An Intelligent Doorbell Design Using Federated Deep Learning,2020
-REJECTED,"Najada H.A., Mahgoub I.",Anticipation and alert system of congestion and accidents in VANET using Big Data analysis for Intelligent Transportation Systems,2017
-REJECTED,"Choudhari N.V., Sasankar A.B.",Architectural vision of cloud computing in the indian government,2021
-REJECTED,"Meurisch C., Bayrak B., Muhlhauser M.",AssistantGraph: An approach for reusable and composable data-driven assistant components,2019
-ACCEPTED,"Kaplunovich A., Yesha Y.",Automatic Hyperparameter Optimization for Arbitrary Neural Networks in Serverless AWS Cloud,2021
-ACCEPTED,"Kaplunovich A., Yesha Y.",Automatic Tuning of Hyperparameters for Neural Networks in Serverless Cloud,2020
-ACCEPTED,"Bhattacharjee A., Chhokra A.D., Kang Z., Sun H., Gokhale A., Karsai G.",BARISTA: Efficient and scalable serverless serving system for deep learning prediction services,2019
-ACCEPTED,"Ali A., Pinciroli R., Yan F., Smirni E.",Batch: Machine learning inference serving on serverless platforms with adaptive batching,2020
-ACCEPTED,"Damkevala D., Lunavara R., Kosamkar M., Jayachandran S.",Behavior analysis using serverless machine learning,2019
-REJECTED,"Pal G., Li G., Atkinson K.",Big Data Ingestion and Lifelong Learning Architecture,2019
-REJECTED,"Huang H.H., Liu H.",Big data machine learning and graph analytics: Current state and future challenges,2015
-REJECTED,"Patel H., Jindal A., Szyperski C.","Big Data Processing at Microsoft: Hyper Scale, Massive Complexity, and Minimal Cost",2019
-REJECTED,"Cortés A., Téllez A.E., Gallardo M., Peralta J.J.",Big data technology to exploit climate information/consumption models and to predict future behaviours,2014
-REJECTED,"Daki H., El Hannani A., Ouahmane H.",Big-data architecture for electrical consumption forecasting in educational institutions buildings,2019
-REJECTED,"Brumbaugh E., Kale A., Luque A., Nooraei B., Park J., Puttaswamy K., Schiller K., Shapiro E., Shi C., Siegel A., Simha N., Bhushan M., Sbrocca M., Yao S.-J., Yoon P., Zanoyan V., Zeng X.-H.T., Zhu Q., Cheong A., Du M.G.-Q., Feng J., Handel N., Hoh A., Hone J., Hunter B.","Bighead: A framework-agnostic, end-to-end machine learning platform",2019
-REJECTED,"Cárdenas R., Arroba P., Risco Martín J.L.",Bringing AI to the edge: A formal M&S specification to deploy effective IoT architectures,2021
-ACCEPTED,"Carreira J., Fonseca P., Tumanov A., Zhang A., Katz R.",Cirrus: A Serverless Framework for End-To-end ML Workflows,2019
-REJECTED,"Belabbess B., Bairat M., Lhez J., Curé O.",Combining machine learning and semantics for anomaly detection,2018
-REJECTED,"Behera R.K., Das S., Rath S.K., Misra S., Damasevicius R.",Comparative study of real time machine learning models for stock prediction through streaming data,2020
-ACCEPTED,Chiang R.C.,Contention-aware container placement strategy for docker swarm with machine learning based clustering algorithms,2020
-ACCEPTED,"Psomakelis E., Tserpes K., Zissis D., Anagnostopoulos D., Varvarigou T.",Context agnostic trajectory prediction based on λ-architecture,2020
-REJECTED,"Birman Y., Hindi S., Katz G., Shabtai A.",Cost-Effective Malware Detection as a Service over Serverless Cloud Using Deep Reinforcement Learning,2020
-ACCEPTED,"Shahidi N., Gunasekaran J.R., Kandemir M.T.",Cross-Platform Performance Evaluation of Stateful Serverless Workflows,2021
-ACCEPTED,"Jauro F., Chiroma H., Gital A.Y., Almutairi M., Abdulhamid S.M., Abawajy J.H.","Deep learning architectures in emerging cloud computing architectures: Recent development, challenges and next research trend",2020
-REJECTED,"O'Donncha F., Akhriev A., Eck B., Burke M., Filgueira R., Grant J.",Deployment and Management of Time Series Forecasts in Ocean Industry,2021
-ACCEPTED,"Dalla Palma S., Garriga M., Di Nucci D., Tamburri D.A., Van Den Heuvel W.-J.",DevOps and Quality Management in Serverless Computing: The RADON Approach,2021
-ACCEPTED,Kurz M.S.,Distributed double machine learning with a serverless architecture,2021
-ACCEPTED,"Wang H., Niu D., Li B.",Distributed Machine Learning with a Serverless Architecture,2019
-ACCEPTED,"Thorpe J., Qiao Y., Eyolfson J., Teng S., Hu G., Jia Z., Wei J., Vora K., Netravali R., Kim M., Xu G.H.","Dorylus: Affordable, scalable, and accurate GNN training with distributed CPU servers and serverless threads",2021
-ACCEPTED,"Zhang M., Krintz C., Wolski R.",Edge-adaptable serverless acceleration for machine learning Internet of Things applications,2021
-REJECTED,"Satzke K., Akkus I.E., Chen R., Rimac I., Stein M., Beck A., Aditya P., Vanga M., Hilt V.",Efficient GPU Sharing for Serverless Workflows,2021
-ACCEPTED,"Zhang C., Yu M., wang W., Yan F.","Enabling Cost-Effective, SLO-Aware Machine Learning Inference Serving on Public Cloud",2020
-ACCEPTED,"Baughman M., Foster I., Chard K.",Enhancing automated FaaS with cost-aware provisioning of cloud resources,2021
-REJECTED,Mendki P.,Evaluating webassembly enabled serverless approach for edge computing,2020
-REJECTED,"Larcher L., Stroele V., Dantas M., Bauer M.",Event-driven framework for detecting unusual patterns in AAL environments,2020
-ACCEPTED,"Feng L., Kudva P., Da Silva D., Hu J.",Exploring Serverless Computing for Neural Network Training,2018
-ACCEPTED,"Shillaker S., Pietzuch P.",FAASM: Lightweight isolation for efficient stateful serverless computing,2020
-REJECTED,"Yu H., Irissappane A.A., Wang H., Lloyd W.J.",FaaSRank: Learning to Schedule Functions in Serverless Platforms,2021
-ACCEPTED,"Horovitz S., Amos R., Baruch O., Cohen T., Oyar T., Deri A.",FaaStest - Machine learning based cost and performance FaaS optimization,2019
-REJECTED,"Savazzi S., Nicoli M., Rampa V.",Federated Learning with Cooperating Devices: A Consensus Approach for Massive IoT Networks,2020
-REJECTED,"Savazzi S., Nicoli M., Rampa V., Kianoush S.",Federated Learning with Mutually Cooperating Devices: A Consensus Approach Towards Server-Less Model Optimization,2020
-ACCEPTED,"Grafberger A., Chadha M., Jindal A., Gu J., Gerndt M.",FedLess: Secure and Scalable Federated Learning Using Serverless Computing,2021
-REJECTED,"Bhagavan S., Gharibi M., Rao P.",FedSmarteum: Secure Federated Matrix Factorization Using Smart Contracts for Multi-Cloud Supply Chain,2021
-ACCEPTED,"Yu M., Jiang Z., Ng H.C., Wang W., Chen R., Li B.",Gillis: Serving large neural networks in serverless functions with automatic model partitioning,2021
-REJECTED,"Yadav P., Salwala D., Sudharsan B., Curry E.",GNOSIS-query-driven multimodal event processing for unstructured data streams,2021
-REJECTED,"Kim J., Jun T.J., Kang D., Kim D., Kim D.",GPU Enabled Serverless Computing Framework,2018
-ACCEPTED,"Kim C.-Y., Cha G.-I.",GPU usage estimation of deep learning training function for serverless computing,2018
-ACCEPTED,"Chahal D., Ramesh M., Ojha R., Singhal R.",High performance serverless architecture for deep learning workflows,2021
-REJECTED,"Luthra M., Hennig S., Agnihotri P., Wang L., Koldehofe B.",Highly flexible server agnostic complex event processing operators,2019
-REJECTED,"Golec M., Ozturac R., Pooranian Z., Gill S.S., Buyya R.",IFaaSBus: A Security- and Privacy-Based Lightweight Framework for Serverless Computing Using IoT and Machine Learning,2022
-REJECTED,"Sunny B.K., Janardhanan P.S., Francis A.B., Murali R.",Implementation of a self-adaptive real time recommendation system using spark machine learning libraries,2017
-ACCEPTED,Deese A.,Implementation of unsupervised k-means clustering algorithm within amazon web services lambda,2018
-ACCEPTED,"Gunasekaran J.R., Mishra C.S., Thinakaran P., Kandemir M.T., Das C.R.",Implications of Public Cloud Resource Heterogeneity for Inference Serving,2020
-REJECTED,"Khandelwal A., Kejariwal A., Ramasamy K.",Le Taureau: Deconstructing the Serverless Landscape & A Look Forward,2020
-ACCEPTED,"Paraskevoulakou E., Kyriazis D.",Leveraging the serverless paradigm for realizing machine learning pipelines across the edge-cloud continuum,2021
-REJECTED,"Pal G., Hong X., Wang Z., Wu H., Li G., Atkinson K.",Lifelong Machine Learning and root cause analysis for large-scale cancer patient data,2019
-REJECTED,"Kaur R., Schaye C., Thompson K., Yee D.C., Zilz R., Sreenivas R.S., Sowers R.B.",Machine learning and price-based load scheduling for an optimal IoT control in the smart and frugal home,2021
-REJECTED,"Dastner K., Von Hasler Zu Roseneckh-Kohler B., Opitz F., Rottmaier M., Schmid E.",Machine learning techniques for enhancing maritime surveillance based on GMTI radar and AIS,2018
-ACCEPTED,"Zhang C., Yu M., Wang W., Yan F.","Mark: Exploiting cloud services for cost-effective, slo-aware machine learning inference serving",2019
-ACCEPTED,"Chahal D., Ojha R., Ramesh M., Singhal R.",Migrating Large Deep Learning Models to Serverless Architecture,2020
-REJECTED,"Keshavarzian A., Sharifian S., Seyedin S.",Modified deep residual network architecture deployed on serverless framework of IoT platform based on human activity recognition application,2019
-REJECTED,"Grohmann J., Nicholson P.K., Iglesias J.O., Kounev S., Lugones D.",Monitorless: Predicting performance degradation in cloud applications with machine learning,2019
-REJECTED,"Jeng T.-H., Chan W.-M., Luo W.-Y., Huang C.-C., Chen C.-C., Chen Y.-M.",NetflowTotal: A cloud service integration platform for malicious traffic analysis and collaboration,2019
-ACCEPTED,"Mvondo D., Bacou M., Nguetchouang K., Ngale L., Pouget S., Kouam J., Lachaize R., Hwang J., Wood T., Hagimont D., De Palma N., Batchakui B., Tchana A.",OFC: An opportunistic caching system for FaaS platforms,2021
-ACCEPTED,"Barcelona-Pons D., Sánchez-Artigas M., París G., Sutra P., García-López P.",On the FaaS track: Building stateful distributed applications with serverless architectures,2019
-REJECTED,"Mastenbroek F., Andreadis G., Jounaid S., Lai W., Burley J., Bosch J., Van Eyk E., Versluis L., Van Beek V., Iosup A.",OpenDC 2.0: Convenient modeling and simulation of emerging technologies in cloud datacenters,2021
-ACCEPTED,"Rausch T., Rashed A., Dustdar S.",Optimized container scheduling for data-intensive serverless edge computing,2021
-ACCEPTED,"Mahmoudi N., Khazaei H., Lin C., Litoiu M.",Optimizing serverless computing: Introducing an adaptive function placement algorithm,2020
-ACCEPTED,"Chahal D., Mishra M., Palepu S., Singhal R.",Performance and cost comparison of cloud services for deep learning workload,2021
-ACCEPTED,"Luckow A., Jha S.",Performance Characterization and Modeling of Serverless and HPC Streaming Applications,2019
-REJECTED,"Luckow A., Rattan K., Jha S.",Pilot-Edge: Distributed Resource Management along the Edge-to-Cloud Continuum,2021
-REJECTED,"Maeda D., Gaur S.",Poster: Lambda architecture for robust condition based maintenance with simulated failure modes,2020
-ACCEPTED,"Khatri D., Khatri S.K., Mishra D.",Potential Bottleneck and Measuring Performance of Serverless Computing: A Literature Study,2020
-REJECTED,"Patman J., Chemodanov D., Calyam P., Palaniappan K., Sterle C., Boccia M.",Predictive Cyber Foraging for Visual Cloud Computing in Large-Scale IoT Systems,2020
-ACCEPTED,"Choi J., Lee J., Cho W.J.",Prognostics by classifying degradation stage on lambda architecture,2020
-REJECTED,"Cho C., Shin S., Jeon H., Yoon S.",QoS-Aware Workload Distribution in Hierarchical Edge Clouds: A Reinforcement Learning Approach,2020
-ACCEPTED,"Krichevsky N., St Louis R., Guo T.",Quantifying and Improving Performance of Distributed Deep Learning with Cloud Storage,2021
-REJECTED,"Yadav P., Salwala D., Pontes F.A., Dhingra P., Curry E.",Query-driven video event processing for the internet multimedia things,2021
-REJECTED,"Munoz Hernandez A., Scarlatti D., Costas P.",Real-Time Estimated Time of Arrival Prediction System using Historical Surveillance Data,2019
-REJECTED,"Iftikhar N., Lachowicz B.P., Madarasz A., Nordbjerg F.E., Baattrup-Andersen T., Jeppesen K.",Real-time visualization of sensor data in smart manufacturing using lambda architecture,2020
-ACCEPTED,"Kaplunovich A., Yesha Y.",Refactoring of Neural Network Models for Hyperparameter Optimization in Serverless Cloud,2020
-ACCEPTED,"Zafeiropoulos A., Fotopoulou E., Filinis N., Papavassiliou S.",Reinforcement learning-assisted autoscaling mechanisms for serverless computing platforms,2022
-ACCEPTED,"Ng J.S., Lim W.Y.B., Xiong Z., Cao X., Jin J., Niyato D., Leung C.S., Miao C.",Reputation-aware Hedonic Coalition Formation for Efficient Serverless Hierarchical Federated Learning,2021
-REJECTED,Huimin Y.,Research on Parallel Support Vector Machine Based on Spark Big Data Platform,2021
-REJECTED,"Maas M., Asanovi K., Kubiatowicz J.",Return of the Runtimes: Rethinking the Language Runtime System for the Cloud 3.0 Era,2017
-REJECTED,"Preuveneers D., Berbers Y., Joosen W.",SAMURAI: A batch and streaming context architecture for large-scale intelligent applications and environments,2016
-REJECTED,Furtado P.,"Scalability and realtime on big data, MapReduce, NoSQL and spark",2017
-REJECTED,"Shaw A.K., Chakraborty A., Mohapatra D., Dutta S.",Scalable IoT solution using cloud services - An automobile industry use case,2020
-REJECTED,"Vandebon J., Coutinho J.G.F., Luk W.",Scheduling Hardware-Accelerated Cloud Functions,2021
-ACCEPTED,"Zhang M., Krintz C., Mock M., Wolski R.",Seneca: Fast and low cost hyperparameter search for machine learning models,2019
-ACCEPTED,"Bac T.P., Tran M.N., Kim Y.",Serverless Computing Approach for Deploying Machine Learning Applications in Edge Layer,2022
-REJECTED,"Marefat M., Juneja A.",Serverless data parallelization for training and retraining of deep learning architecture in patient-specific arrhythmia detection,2019
-REJECTED,"Gupta V., Carrano D., Yang Y., Shankar V., Courtade T., Ramchandran K.",Serverless straggler mitigation using error-correcting codes,2020
-REJECTED,"Risco S., Moltó G., Naranjo D.M., Blanquer I.",Serverless Workflows for Containerised Applications in the Cloud Continuum,2021
-ACCEPTED,"Ishakian V., Muthusamy V., Slominski A.",Serving deep learning models in a serverless platform,2018
-ACCEPTED,"Christidis A., Davies R., Moschoyiannis S.",Serving machine learning workloads in resource constrained environments: A serverless deployment example,2019
-REJECTED,"Handrianto Y., Huang R., Shang Y.",Short paper: Tigeraware assistant: A new serverless implementation of conversational agents for customizable surveys on smart devices,2019
-ACCEPTED,"Elsakhawy M., Bauer M.",SLA for Sequential Serverless Chains: A Machine Learning Approach,2021
-ACCEPTED,"Chahal D., Palepu S., Mishra M., Singhal R.",SLA-Aware Workload Scheduling Using Hybrid Cloud Services,2021
-REJECTED,"Vandebon J., Coutinho J.G.F., Luk W., Nurvitadhi E., Naik M.",SLATE: Managing heterogeneous cloud functions,2020
-REJECTED,"Batyuk A., V Oityshyn V., Verhun V.",Software Architecture Design of the Real- Time Processes Monitoring Platform,2018
-REJECTED,"Mohapatra S., Mohapatra A., Patil A.",Soil Analysis and its Type Prediction with Speech Enabled Output using IoT and AWS,2020
-ACCEPTED,"Zhang M., Krintz C., Wolski R.",STOIC: Serverless Teleoperable Hybrid Cloud for Machine Learning Applications on Edge Device,2020
-ACCEPTED,"Bhattacharjee A., Barve Y., Khare S., Bao S., Gokhale A., Damiano T.",Stratum: A serverless framework for the lifecycle management of machine learning-based data analytics tasks,2019
-REJECTED,"Sankhe P., Khabiri E., Agrawal B., Li Y.",TableNN: Deep Learning Framework for Learning Domain Specific Tabular Data,2021
-REJECTED,"Meade E., O’Keeffe E., Lyons N., Lynch D., Yilmaz M., Gulec U., O’Connor R.V., Clarke P.M.",The Changing Role of the Software Engineer,2019
-REJECTED,"Demertzis K., Tziritas N., Kikiras P., Sanchez S.L., Iliadis L.",The next generation cognitive security operations center: Adaptive analytic lambda architecture for efficient defense against adversarial attacks,2019
-REJECTED,"Huber F., Mock M.",Toci: Computational Intelligence in an Energy Management System,2020
-ACCEPTED,"Patros P., Spillner J., Papadopoulos A.V., Varghese B., Rana O., Dustdar S.",Toward Sustainable Serverless Computing,2021
-ACCEPTED,"Jiang J., Gan S., Liu Y., Wang F., Alonso G., Klimovic A., Singla A., Wu W., Zhang C.",Towards Demystifying Serverless Machine Learning Training,2021
-ACCEPTED,"Chadha M., Jindal A., Gerndt M.",Towards Federated Learning using FaaS Fabric,2020
-REJECTED,"Kessentini O., Dalce R., Megdiche I., Bastide R.",Towards predicting frailty symptoms through a smart walking stick,2018
-ACCEPTED,"Nesen A., Bhargava B.",Towards situational awareness with multimodal streaming data fusion: Serverless computing approach,2021
-REJECTED,"Campanile L., Iacono M., Martinelli F., Marulli F., Mastroianni M., Mercaldo F., Santone A.",Towards the Use of Generative Adversarial Neural Networks to Attack Online Resources,2020
-ACCEPTED,"Dakkak A., Li C., De Gonzalo S.G., Xiong J., Hwu W.-M.",TrIMS: Transparent and isolated model sharing for low latency deep learning inference in function-as-a-service,2019
-REJECTED,"Hwang M., Williamson C.",Using cloud tools for literate programming to redesign an ai course for non-traditional college students,2020
-REJECTED,"Salehe M., Hu Z., Mortazavi S.H., Capes T., Mohomed I.",VideoPipe: Building video stream processing pipelines at the edge,2019
-ACCEPTED,"Ma L., Shao E., Zhou Y., Tan G.",WidePipe: High-Throughput Deep Learning Inference System on a Cluster of Neural Processing Units,2021
-ACCEPTED,Tagliabue J.,You Do Not Need a bigger boat: Recommendations at Reasonable Scale in a (Mostly) serverless and open stack,2021
+Status;Authors;Title;Year
+ACCEPTED;Lopez Garcia A., Tran V., Alic A.S., Caballer M., Plasencia I.C., Costantini A., Dlugolinsky S., Duma D.C., Donvito G., Gomes J., Heredia Cacha I., De Lucas J.M., Ito K., Kozlov V.Y., Nguyen G., Orviz Fernandez P., Sustr Z., Wolniewicz P., Antonacci M., Zu Castell W., David M., Hardt M., Lloret Iglesias L., Molto G., Plociennik M.;A cloud-based framework for machine learning workloads and applications;2020
+REJECTED;Ganchev I., Ji Z., O'Droma M.;A conceptual framework for building a mobile services' recommendation engine;2016
+REJECTED;Alghamdi R., Bellaiche M.;A Deep Intrusion Detection System in Lambda Architecture Based on Edge Cloud Computing for IoT;2021
+REJECTED;Demertzis K., Iliadis L., Anezakis V.-D.;A machine hearing framework for real-time streaming analytics using lambda architecture;2019
+REJECTED;Gueye S.M., Diop A., Gueye A.D.;A machine learning model on virtual university of senegal’s educational data based on lambda architecture.;2020
+ACCEPTED;Gandhi U., Bothera A., Garg N., Neeraj, Gupta I.;A Machine Learning-Based Approach for Efficient Cloud Service Selection;2022
+ACCEPTED;Soltani B., Ghenai A., Zeghib N.;A migration-based approach to execute long-duration multi-cloud serverless functions;2018
+REJECTED;Chen D., Gao M., Liu A., Chen M., Zhang Z., Feng Y.;A Recurrent Neural Network Based Approach for Web Service QoS Prediction;2019
+REJECTED;Li D., Pyke R., Jiang R.;A Scalable Cloud-based Architecture to Deploy JupyterHub for Computational Social Science Research;2021
+ACCEPTED;Naranjo D.M., Risco S., Moltó G., Blanquer I.;A serverless gateway for event-driven machine learning inference in multiple clouds;2021
+REJECTED;Nurminen J.K., Mfula H.;A Unified Framework for 5G Network Management Tools;2019
+ACCEPTED;Naranjo D.M., Risco S., de Alfonso C., Pérez A., Blanquer I., Moltó G.;Accelerated serverless computing based on GPU virtualization;2020
+ACCEPTED;Pandya A., Odunsi O., Liu C., Cuzzocrea A., Wang J.;Adaptive and Efficient Streaming Time Series Forecasting with Lambda Architecture and Spark;2020
+ACCEPTED;Flores H., Nurmi P., Hui P.;AI on the Move: From On-Device to On-Multi-Device;2019
+ACCEPTED;Jarachanthan J., Chen L., Xu F., Li B.;AMPS-Inf: Automatic Model Partitioning for Serverless Inference with Cost Efficiency;2021
+ACCEPTED;Wen J., Chen Z., Liu Y., Lou Y., Ma Y., Huang G., Jin X., Liu X.;An empirical study on challenges of application development in serverless computing;2021
+REJECTED;Yuvaraj N., Karthikeyan T., Praghash K.;An Improved Task Allocation Scheme in Serverless Computing Using Gray Wolf Optimization (GWO) Based Reinforcement Learning (RIL) Approach;2021
+REJECTED;Patel V., Kanani S., Pathak T., Patel P., Ali M.I., Breslin J.;An Intelligent Doorbell Design Using Federated Deep Learning;2020
+REJECTED;Najada H.A., Mahgoub I.;Anticipation and alert system of congestion and accidents in VANET using Big Data analysis for Intelligent Transportation Systems;2017
+REJECTED;Choudhari N.V., Sasankar A.B.;Architectural vision of cloud computing in the indian government;2021
+REJECTED;Meurisch C., Bayrak B., Muhlhauser M.;AssistantGraph: An approach for reusable and composable data-driven assistant components;2019
+ACCEPTED;Kaplunovich A., Yesha Y.;Automatic Hyperparameter Optimization for Arbitrary Neural Networks in Serverless AWS Cloud;2021
+ACCEPTED;Kaplunovich A., Yesha Y.;Automatic Tuning of Hyperparameters for Neural Networks in Serverless Cloud;2020
+ACCEPTED;Bhattacharjee A., Chhokra A.D., Kang Z., Sun H., Gokhale A., Karsai G.;BARISTA: Efficient and scalable serverless serving system for deep learning prediction services;2019
+ACCEPTED;Ali A., Pinciroli R., Yan F., Smirni E.;Batch: Machine learning inference serving on serverless platforms with adaptive batching;2020
+ACCEPTED;Damkevala D., Lunavara R., Kosamkar M., Jayachandran S.;Behavior analysis using serverless machine learning;2019
+REJECTED;Pal G., Li G., Atkinson K.;Big Data Ingestion and Lifelong Learning Architecture;2019
+REJECTED;Huang H.H., Liu H.;Big data machine learning and graph analytics: Current state and future challenges;2015
+REJECTED;Patel H., Jindal A., Szyperski C.;Big Data Processing at Microsoft: Hyper Scale, Massive Complexity, and Minimal Cost;2019
+REJECTED;Cortés A., Téllez A.E., Gallardo M., Peralta J.J.;Big data technology to exploit climate information/consumption models and to predict future behaviours;2014
+REJECTED;Daki H., El Hannani A., Ouahmane H.;Big-data architecture for electrical consumption forecasting in educational institutions buildings;2019
+REJECTED;Brumbaugh E., Kale A., Luque A., Nooraei B., Park J., Puttaswamy K., Schiller K., Shapiro E., Shi C., Siegel A., Simha N., Bhushan M., Sbrocca M., Yao S.-J., Yoon P., Zanoyan V., Zeng X.-H.T., Zhu Q., Cheong A., Du M.G.-Q., Feng J., Handel N., Hoh A., Hone J., Hunter B.;Bighead: A framework-agnostic, end-to-end machine learning platform;2019
+REJECTED;Cárdenas R., Arroba P., Risco Martín J.L.;Bringing AI to the edge: A formal M&S specification to deploy effective IoT architectures;2021
+ACCEPTED;Carreira J., Fonseca P., Tumanov A., Zhang A., Katz R.;Cirrus: A Serverless Framework for End-To-end ML Workflows;2019
+REJECTED;Belabbess B., Bairat M., Lhez J., Curé O.;Combining machine learning and semantics for anomaly detection;2018
+REJECTED;Behera R.K., Das S., Rath S.K., Misra S., Damasevicius R.;Comparative study of real time machine learning models for stock prediction through streaming data;2020
+ACCEPTED;Chiang R.C.;Contention-aware container placement strategy for docker swarm with machine learning based clustering algorithms;2020
+ACCEPTED;Psomakelis E., Tserpes K., Zissis D., Anagnostopoulos D., Varvarigou T.;Context agnostic trajectory prediction based on λ-architecture;2020
+REJECTED;Birman Y., Hindi S., Katz G., Shabtai A.;Cost-Effective Malware Detection as a Service over Serverless Cloud Using Deep Reinforcement Learning;2020
+ACCEPTED;Shahidi N., Gunasekaran J.R., Kandemir M.T.;Cross-Platform Performance Evaluation of Stateful Serverless Workflows;2021
+ACCEPTED;Jauro F., Chiroma H., Gital A.Y., Almutairi M., Abdulhamid S.M., Abawajy J.H.;Deep learning architectures in emerging cloud computing architectures: Recent development, challenges and next research trend;2020
+REJECTED;O'Donncha F., Akhriev A., Eck B., Burke M., Filgueira R., Grant J.;Deployment and Management of Time Series Forecasts in Ocean Industry;2021
+ACCEPTED;Dalla Palma S., Garriga M., Di Nucci D., Tamburri D.A., Van Den Heuvel W.-J.;DevOps and Quality Management in Serverless Computing: The RADON Approach;2021
+ACCEPTED;Kurz M.S.;Distributed double machine learning with a serverless architecture;2021
+ACCEPTED;Wang H., Niu D., Li B.;Distributed Machine Learning with a Serverless Architecture;2019
+ACCEPTED;Thorpe J., Qiao Y., Eyolfson J., Teng S., Hu G., Jia Z., Wei J., Vora K., Netravali R., Kim M., Xu G.H.;Dorylus: Affordable, scalable, and accurate GNN training with distributed CPU servers and serverless threads;2021
+ACCEPTED;Zhang M., Krintz C., Wolski R.;Edge-adaptable serverless acceleration for machine learning Internet of Things applications;2021
+REJECTED;Satzke K., Akkus I.E., Chen R., Rimac I., Stein M., Beck A., Aditya P., Vanga M., Hilt V.;Efficient GPU Sharing for Serverless Workflows;2021
+ACCEPTED;Zhang C., Yu M., wang W., Yan F.;Enabling Cost-Effective, SLO-Aware Machine Learning Inference Serving on Public Cloud;2020
+ACCEPTED;Baughman M., Foster I., Chard K.;Enhancing automated FaaS with cost-aware provisioning of cloud resources;2021
+REJECTED;Mendki P.;Evaluating webassembly enabled serverless approach for edge computing;2020
+REJECTED;Larcher L., Stroele V., Dantas M., Bauer M.;Event-driven framework for detecting unusual patterns in AAL environments;2020
+ACCEPTED;Feng L., Kudva P., Da Silva D., Hu J.;Exploring Serverless Computing for Neural Network Training;2018
+ACCEPTED;Shillaker S., Pietzuch P.;FAASM: Lightweight isolation for efficient stateful serverless computing;2020
+REJECTED;Yu H., Irissappane A.A., Wang H., Lloyd W.J.;FaaSRank: Learning to Schedule Functions in Serverless Platforms;2021
+ACCEPTED;Horovitz S., Amos R., Baruch O., Cohen T., Oyar T., Deri A.;FaaStest - Machine learning based cost and performance FaaS optimization;2019
+REJECTED;Savazzi S., Nicoli M., Rampa V.;Federated Learning with Cooperating Devices: A Consensus Approach for Massive IoT Networks;2020
+REJECTED;Savazzi S., Nicoli M., Rampa V., Kianoush S.;Federated Learning with Mutually Cooperating Devices: A Consensus Approach Towards Server-Less Model Optimization;2020
+ACCEPTED;Grafberger A., Chadha M., Jindal A., Gu J., Gerndt M.;FedLess: Secure and Scalable Federated Learning Using Serverless Computing;2021
+REJECTED;Bhagavan S., Gharibi M., Rao P.;FedSmarteum: Secure Federated Matrix Factorization Using Smart Contracts for Multi-Cloud Supply Chain;2021
+ACCEPTED;Yu M., Jiang Z., Ng H.C., Wang W., Chen R., Li B.;Gillis: Serving large neural networks in serverless functions with automatic model partitioning;2021
+REJECTED;Yadav P., Salwala D., Sudharsan B., Curry E.;GNOSIS-query-driven multimodal event processing for unstructured data streams;2021
+REJECTED;Kim J., Jun T.J., Kang D., Kim D., Kim D.;GPU Enabled Serverless Computing Framework;2018
+ACCEPTED;Kim C.-Y., Cha G.-I.;GPU usage estimation of deep learning training function for serverless computing;2018
+ACCEPTED;Chahal D., Ramesh M., Ojha R., Singhal R.;High performance serverless architecture for deep learning workflows;2021
+REJECTED;Luthra M., Hennig S., Agnihotri P., Wang L., Koldehofe B.;Highly flexible server agnostic complex event processing operators;2019
+REJECTED;Golec M., Ozturac R., Pooranian Z., Gill S.S., Buyya R.;IFaaSBus: A Security- and Privacy-Based Lightweight Framework for Serverless Computing Using IoT and Machine Learning;2022
+REJECTED;Sunny B.K., Janardhanan P.S., Francis A.B., Murali R.;Implementation of a self-adaptive real time recommendation system using spark machine learning libraries;2017
+ACCEPTED;Deese A.;Implementation of unsupervised k-means clustering algorithm within amazon web services lambda;2018
+ACCEPTED;Gunasekaran J.R., Mishra C.S., Thinakaran P., Kandemir M.T., Das C.R.;Implications of Public Cloud Resource Heterogeneity for Inference Serving;2020
+REJECTED;Khandelwal A., Kejariwal A., Ramasamy K.;Le Taureau: Deconstructing the Serverless Landscape & A Look Forward;2020
+ACCEPTED;Paraskevoulakou E., Kyriazis D.;Leveraging the serverless paradigm for realizing machine learning pipelines across the edge-cloud continuum;2021
+REJECTED;Pal G., Hong X., Wang Z., Wu H., Li G., Atkinson K.;Lifelong Machine Learning and root cause analysis for large-scale cancer patient data;2019
+REJECTED;Kaur R., Schaye C., Thompson K., Yee D.C., Zilz R., Sreenivas R.S., Sowers R.B.;Machine learning and price-based load scheduling for an optimal IoT control in the smart and frugal home;2021
+REJECTED;Dastner K., Von Hasler Zu Roseneckh-Kohler B., Opitz F., Rottmaier M., Schmid E.;Machine learning techniques for enhancing maritime surveillance based on GMTI radar and AIS;2018
+ACCEPTED;Zhang C., Yu M., Wang W., Yan F.;Mark: Exploiting cloud services for cost-effective, slo-aware machine learning inference serving;2019
+ACCEPTED;Chahal D., Ojha R., Ramesh M., Singhal R.;Migrating Large Deep Learning Models to Serverless Architecture;2020
+REJECTED;Keshavarzian A., Sharifian S., Seyedin S.;Modified deep residual network architecture deployed on serverless framework of IoT platform based on human activity recognition application;2019
+REJECTED;Grohmann J., Nicholson P.K., Iglesias J.O., Kounev S., Lugones D.;Monitorless: Predicting performance degradation in cloud applications with machine learning;2019
+REJECTED;Jeng T.-H., Chan W.-M., Luo W.-Y., Huang C.-C., Chen C.-C., Chen Y.-M.;NetflowTotal: A cloud service integration platform for malicious traffic analysis and collaboration;2019
+ACCEPTED;Mvondo D., Bacou M., Nguetchouang K., Ngale L., Pouget S., Kouam J., Lachaize R., Hwang J., Wood T., Hagimont D., De Palma N., Batchakui B., Tchana A.;OFC: An opportunistic caching system for FaaS platforms;2021
+ACCEPTED;Barcelona-Pons D., Sánchez-Artigas M., París G., Sutra P., García-López P.;On the FaaS track: Building stateful distributed applications with serverless architectures;2019
+REJECTED;Mastenbroek F., Andreadis G., Jounaid S., Lai W., Burley J., Bosch J., Van Eyk E., Versluis L., Van Beek V., Iosup A.;OpenDC 2.0: Convenient modeling and simulation of emerging technologies in cloud datacenters;2021
+ACCEPTED;Rausch T., Rashed A., Dustdar S.;Optimized container scheduling for data-intensive serverless edge computing;2021
+ACCEPTED;Mahmoudi N., Khazaei H., Lin C., Litoiu M.;Optimizing serverless computing: Introducing an adaptive function placement algorithm;2020
+ACCEPTED;Chahal D., Mishra M., Palepu S., Singhal R.;Performance and cost comparison of cloud services for deep learning workload;2021
+ACCEPTED;Luckow A., Jha S.;Performance Characterization and Modeling of Serverless and HPC Streaming Applications;2019
+REJECTED;Luckow A., Rattan K., Jha S.;Pilot-Edge: Distributed Resource Management along the Edge-to-Cloud Continuum;2021
+REJECTED;Maeda D., Gaur S.;Poster: Lambda architecture for robust condition based maintenance with simulated failure modes;2020
+ACCEPTED;Khatri D., Khatri S.K., Mishra D.;Potential Bottleneck and Measuring Performance of Serverless Computing: A Literature Study;2020
+REJECTED;Patman J., Chemodanov D., Calyam P., Palaniappan K., Sterle C., Boccia M.;Predictive Cyber Foraging for Visual Cloud Computing in Large-Scale IoT Systems;2020
+ACCEPTED;Choi J., Lee J., Cho W.J.;Prognostics by classifying degradation stage on lambda architecture;2020
+REJECTED;Cho C., Shin S., Jeon H., Yoon S.;QoS-Aware Workload Distribution in Hierarchical Edge Clouds: A Reinforcement Learning Approach;2020
+ACCEPTED;Krichevsky N., St Louis R., Guo T.;Quantifying and Improving Performance of Distributed Deep Learning with Cloud Storage;2021
+REJECTED;Yadav P., Salwala D., Pontes F.A., Dhingra P., Curry E.;Query-driven video event processing for the internet multimedia things;2021
+REJECTED;Munoz Hernandez A., Scarlatti D., Costas P.;Real-Time Estimated Time of Arrival Prediction System using Historical Surveillance Data;2019
+REJECTED;Iftikhar N., Lachowicz B.P., Madarasz A., Nordbjerg F.E., Baattrup-Andersen T., Jeppesen K.;Real-time visualization of sensor data in smart manufacturing using lambda architecture;2020
+ACCEPTED;Kaplunovich A., Yesha Y.;Refactoring of Neural Network Models for Hyperparameter Optimization in Serverless Cloud;2020
+ACCEPTED;Zafeiropoulos A., Fotopoulou E., Filinis N., Papavassiliou S.;Reinforcement learning-assisted autoscaling mechanisms for serverless computing platforms;2022
+ACCEPTED;Ng J.S., Lim W.Y.B., Xiong Z., Cao X., Jin J., Niyato D., Leung C.S., Miao C.;Reputation-aware Hedonic Coalition Formation for Efficient Serverless Hierarchical Federated Learning;2021
+REJECTED;Huimin Y.;Research on Parallel Support Vector Machine Based on Spark Big Data Platform;2021
+REJECTED;Maas M., Asanovi K., Kubiatowicz J.;Return of the Runtimes: Rethinking the Language Runtime System for the Cloud 3.0 Era;2017
+REJECTED;Preuveneers D., Berbers Y., Joosen W.;SAMURAI: A batch and streaming context architecture for large-scale intelligent applications and environments;2016
+REJECTED;Furtado P.;Scalability and realtime on big data, MapReduce, NoSQL and spark;2017
+REJECTED;Shaw A.K., Chakraborty A., Mohapatra D., Dutta S.;Scalable IoT solution using cloud services - An automobile industry use case;2020
+REJECTED;Vandebon J., Coutinho J.G.F., Luk W.;Scheduling Hardware-Accelerated Cloud Functions;2021
+ACCEPTED;Zhang M., Krintz C., Mock M., Wolski R.;Seneca: Fast and low cost hyperparameter search for machine learning models;2019
+ACCEPTED;Bac T.P., Tran M.N., Kim Y.;Serverless Computing Approach for Deploying Machine Learning Applications in Edge Layer;2022
+REJECTED;Marefat M., Juneja A.;Serverless data parallelization for training and retraining of deep learning architecture in patient-specific arrhythmia detection;2019
+REJECTED;Gupta V., Carrano D., Yang Y., Shankar V., Courtade T., Ramchandran K.;Serverless straggler mitigation using error-correcting codes;2020
+REJECTED;Risco S., Moltó G., Naranjo D.M., Blanquer I.;Serverless Workflows for Containerised Applications in the Cloud Continuum;2021
+ACCEPTED;Ishakian V., Muthusamy V., Slominski A.;Serving deep learning models in a serverless platform;2018
+ACCEPTED;Christidis A., Davies R., Moschoyiannis S.;Serving machine learning workloads in resource constrained environments: A serverless deployment example;2019
+REJECTED;Handrianto Y., Huang R., Shang Y.;Short paper: Tigeraware assistant: A new serverless implementation of conversational agents for customizable surveys on smart devices;2019
+ACCEPTED;Elsakhawy M., Bauer M.;SLA for Sequential Serverless Chains: A Machine Learning Approach;2021
+ACCEPTED;Chahal D., Palepu S., Mishra M., Singhal R.;SLA-Aware Workload Scheduling Using Hybrid Cloud Services;2021
+REJECTED;Vandebon J., Coutinho J.G.F., Luk W., Nurvitadhi E., Naik M.;SLATE: Managing heterogeneous cloud functions;2020
+REJECTED;Batyuk A., V Oityshyn V., Verhun V.;Software Architecture Design of the Real- Time Processes Monitoring Platform;2018
+REJECTED;Mohapatra S., Mohapatra A., Patil A.;Soil Analysis and its Type Prediction with Speech Enabled Output using IoT and AWS;2020
+ACCEPTED;Zhang M., Krintz C., Wolski R.;STOIC: Serverless Teleoperable Hybrid Cloud for Machine Learning Applications on Edge Device;2020
+ACCEPTED;Bhattacharjee A., Barve Y., Khare S., Bao S., Gokhale A., Damiano T.;Stratum: A serverless framework for the lifecycle management of machine learning-based data analytics tasks;2019
+REJECTED;Sankhe P., Khabiri E., Agrawal B., Li Y.;TableNN: Deep Learning Framework for Learning Domain Specific Tabular Data;2021
+REJECTED;Meade E., O’Keeffe E., Lyons N., Lynch D., Yilmaz M., Gulec U., O’Connor R.V., Clarke P.M.;The Changing Role of the Software Engineer;2019
+REJECTED;Demertzis K., Tziritas N., Kikiras P., Sanchez S.L., Iliadis L.;The next generation cognitive security operations center: Adaptive analytic lambda architecture for efficient defense against adversarial attacks;2019
+REJECTED;Huber F., Mock M.;Toci: Computational Intelligence in an Energy Management System;2020
+ACCEPTED;Patros P., Spillner J., Papadopoulos A.V., Varghese B., Rana O., Dustdar S.;Toward Sustainable Serverless Computing;2021
+ACCEPTED;Jiang J., Gan S., Liu Y., Wang F., Alonso G., Klimovic A., Singla A., Wu W., Zhang C.;Towards Demystifying Serverless Machine Learning Training;2021
+ACCEPTED;Chadha M., Jindal A., Gerndt M.;Towards Federated Learning using FaaS Fabric;2020
+REJECTED;Kessentini O., Dalce R., Megdiche I., Bastide R.;Towards predicting frailty symptoms through a smart walking stick;2018
+ACCEPTED;Nesen A., Bhargava B.;Towards situational awareness with multimodal streaming data fusion: Serverless computing approach;2021
+REJECTED;Campanile L., Iacono M., Martinelli F., Marulli F., Mastroianni M., Mercaldo F., Santone A.;Towards the Use of Generative Adversarial Neural Networks to Attack Online Resources;2020
+ACCEPTED;Dakkak A., Li C., De Gonzalo S.G., Xiong J., Hwu W.-M.;TrIMS: Transparent and isolated model sharing for low latency deep learning inference in function-as-a-service;2019
+REJECTED;Hwang M., Williamson C.;Using cloud tools for literate programming to redesign an ai course for non-traditional college students;2020
+REJECTED;Salehe M., Hu Z., Mortazavi S.H., Capes T., Mohomed I.;VideoPipe: Building video stream processing pipelines at the edge;2019
+ACCEPTED;Ma L., Shao E., Zhou Y., Tan G.;WidePipe: High-Throughput Deep Learning Inference System on a Cluster of Neural Processing Units;2021
+ACCEPTED;Tagliabue J.;You Do Not Need a bigger boat: Recommendations at Reasonable Scale in a (Mostly) serverless and open stack;2021

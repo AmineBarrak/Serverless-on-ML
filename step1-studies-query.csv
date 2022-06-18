@@ -1,184 +1,199 @@
-Computer Science?,English?,CP or Article?,Title,Admitted
-FALSE,TRUE,FALSE,"10th International Conference on Computer Science and its Applications, CSA 2018 and the 13th KIPS International Conference on Ubiquitous Information Technologies and Applications, CUTE 2018",FALSE
-TRUE,TRUE,FALSE,"12th Annual ACM Symposium on Cloud Computing, SoCC 2021",FALSE
-TRUE,TRUE,FALSE,"15th International Conference on Service-Oriented Computing, ICSOC 2017",FALSE
-TRUE,TRUE,FALSE,"17th International Conference on Web Engineering, ICWE 2017",FALSE
-FALSE,TRUE,FALSE,1st EAGE Digital Subsurface Conference in Latin America,FALSE
-TRUE,TRUE,FALSE,"2021 ITU Kaleidoscope: Connecting Physical and Virtual Worlds, ITU K 2021",FALSE
-TRUE,TRUE,FALSE,"20th International Conference on Engineering Applications of Neural Networks, EANN 2019",FALSE
-FALSE,FALSE,FALSE,21st century daily seamless data cube reconstruction and seasonal to annual land cover and land use dynamics mapping-iMap (China) 1.0 [21世纪逐日无缝数据立方体构建方法及逐年逐季节土地覆盖和土地利用动态制图-中国智慧遥感制图iMap (China) 1.0],FALSE
-TRUE,TRUE,FALSE,"4th International Conference on Smart Computing and Informatics, SCI 2020",FALSE
-TRUE,TRUE,FALSE,"7th International Congress on Big Data, BigData 2018 Held as Part of the Services Conference Federation, SCF 2018",FALSE
-FALSE,TRUE,TRUE,A Cloud-Based Computing Framework for Artificial Intelligence Innovation in Support of Multidomain Operations,FALSE
-TRUE,TRUE,TRUE,A cloud-based framework for machine learning workloads and applications,TRUE
-TRUE,TRUE,TRUE,A conceptual framework for building a mobile services' recommendation engine,TRUE
-TRUE,TRUE,TRUE,A Deep Intrusion Detection System in Lambda Architecture Based on Edge Cloud Computing for IoT,TRUE
-TRUE,TRUE,TRUE,A machine hearing framework for real-time streaming analytics using lambda architecture,TRUE
-TRUE,TRUE,TRUE,A machine learning model on virtual university of senegal’s educational data based on lambda architecture.,TRUE
-TRUE,TRUE,TRUE,A Machine Learning-Based Approach for Efficient Cloud Service Selection,TRUE
-TRUE,TRUE,TRUE,A migration-based approach to execute long-duration multi-cloud serverless functions,TRUE
-TRUE,TRUE,TRUE,A Recurrent Neural Network Based Approach for Web Service QoS Prediction,TRUE
-TRUE,TRUE,TRUE,A Scalable Cloud-based Architecture to Deploy JupyterHub for Computational Social Science Research,TRUE
-TRUE,TRUE,TRUE,A serverless gateway for event-driven machine learning inference in multiple clouds,TRUE
-FALSE,TRUE,TRUE,A TinyML Platform for On-Device Continual Learning with Quantized Latent Replays,FALSE
-TRUE,TRUE,TRUE,A Unified Framework for 5G Network Management Tools,TRUE
-TRUE,TRUE,TRUE,Accelerated serverless computing based on GPU virtualization,TRUE
-TRUE,TRUE,TRUE,Adaptive and Efficient Streaming Time Series Forecasting with Lambda Architecture and Spark,TRUE
-TRUE,TRUE,TRUE,AI on the Move: From On-Device to On-Multi-Device,TRUE
-TRUE,TRUE,TRUE,AMPS-Inf: Automatic Model Partitioning for Serverless Inference with Cost Efficiency,TRUE
-FALSE,TRUE,TRUE,An efficient distributed data processing method for smart environment,FALSE
-FALSE,TRUE,TRUE,An efficient distributed data processing method for smooth environment,FALSE
-TRUE,TRUE,TRUE,An empirical study on challenges of application development in serverless computing,TRUE
-TRUE,TRUE,TRUE,An Improved Task Allocation Scheme in Serverless Computing Using Gray Wolf Optimization (GWO) Based Reinforcement Learning (RIL) Approach,TRUE
-TRUE,TRUE,TRUE,An Intelligent Doorbell Design Using Federated Deep Learning,TRUE
-TRUE,TRUE,TRUE,Anticipation and alert system of congestion and accidents in VANET using Big Data analysis for Intelligent Transportation Systems,TRUE
-TRUE,TRUE,TRUE,Architectural vision of cloud computing in the indian government,TRUE
-TRUE,TRUE,TRUE,AssistantGraph: An approach for reusable and composable data-driven assistant components,TRUE
-TRUE,TRUE,TRUE,Automatic Hyperparameter Optimization for Arbitrary Neural Networks in Serverless AWS Cloud,TRUE
-TRUE,TRUE,TRUE,Automatic Tuning of Hyperparameters for Neural Networks in Serverless Cloud,TRUE
-TRUE,TRUE,FALSE,Azure internet of things revealed: Architecture and fundamentals,FALSE
-TRUE,TRUE,TRUE,BARISTA: Efficient and scalable serverless serving system for deep learning prediction services,TRUE
-TRUE,TRUE,TRUE,Batch: Machine learning inference serving on serverless platforms with adaptive batching,TRUE
-TRUE,TRUE,TRUE,Behavior analysis using serverless machine learning,TRUE
-TRUE,TRUE,TRUE,Big Data Ingestion and Lifelong Learning Architecture,TRUE
-TRUE,TRUE,TRUE,Big data machine learning and graph analytics: Current state and future challenges,TRUE
-TRUE,TRUE,TRUE,"Big Data Processing at Microsoft: Hyper Scale, Massive Complexity, and Minimal Cost",TRUE
-TRUE,TRUE,TRUE,Big data technology to exploit climate information/consumption models and to predict future behaviours,TRUE
-TRUE,TRUE,TRUE,Big-data architecture for electrical consumption forecasting in educational institutions buildings,TRUE
-TRUE,TRUE,TRUE,"Bighead: A framework-agnostic, end-to-end machine learning platform",TRUE
-TRUE,TRUE,TRUE,Bringing AI to the edge: A formal M&S specification to deploy effective IoT architectures,TRUE
-TRUE,TRUE,TRUE,Cirrus: A Serverless Framework for End-To-end ML Workflows,TRUE
-TRUE,TRUE,FALSE,CLOSER 2020 - Proceedings of the 10th International Conference on Cloud Computing and Services Science,FALSE
-TRUE,TRUE,TRUE,Combining machine learning and semantics for anomaly detection,TRUE
-TRUE,TRUE,TRUE,Comparative study of real time machine learning models for stock prediction through streaming data,TRUE
-TRUE,TRUE,TRUE,Contention-aware container placement strategy for docker swarm with machine learning based clustering algorithms,TRUE
-TRUE,TRUE,TRUE,Context agnostic trajectory prediction based on λ-architecture,TRUE
-TRUE,TRUE,TRUE,Cost-Effective Malware Detection as a Service over Serverless Cloud Using Deep Reinforcement Learning,TRUE
-TRUE,TRUE,TRUE,Cross-Platform Performance Evaluation of Stateful Serverless Workflows,TRUE
-TRUE,TRUE,FALSE,DEBS 2021 - Proceedings of the 15th ACM International Conference on Distributed and Event-Based Systems,FALSE
-TRUE,TRUE,TRUE,"Deep learning architectures in emerging cloud computing architectures: Recent development, challenges and next research trend",TRUE
-TRUE,TRUE,TRUE,Deployment and Management of Time Series Forecasts in Ocean Industry,TRUE
-TRUE,TRUE,TRUE,DevOps and Quality Management in Serverless Computing: The RADON Approach,TRUE
-TRUE,TRUE,TRUE,Distributed double machine learning with a serverless architecture,TRUE
-TRUE,TRUE,TRUE,Distributed Machine Learning with a Serverless Architecture,TRUE
-TRUE,TRUE,TRUE,"Dorylus: Affordable, scalable, and accurate GNN training with distributed CPU servers and serverless threads",TRUE
-TRUE,TRUE,TRUE,Edge-adaptable serverless acceleration for machine learning Internet of Things applications,TRUE
-TRUE,TRUE,TRUE,Efficient GPU Sharing for Serverless Workflows,TRUE
-TRUE,TRUE,TRUE,"Enabling Cost-Effective, SLO-Aware Machine Learning Inference Serving on Public Cloud",TRUE
-TRUE,TRUE,TRUE,Enhancing automated FaaS with cost-aware provisioning of cloud resources,TRUE
-TRUE,TRUE,TRUE,Evaluating webassembly enabled serverless approach for edge computing,TRUE
-TRUE,TRUE,TRUE,Event-driven framework for detecting unusual patterns in AAL environments,TRUE
-TRUE,TRUE,TRUE,Exploring Serverless Computing for Neural Network Training,TRUE
-TRUE,TRUE,TRUE,FAASM: Lightweight isolation for efficient stateful serverless computing,TRUE
-TRUE,TRUE,TRUE,FaaSRank: Learning to Schedule Functions in Serverless Platforms,TRUE
-TRUE,TRUE,TRUE,FaaStest - Machine learning based cost and performance FaaS optimization,TRUE
-TRUE,TRUE,FALSE,Federated Learning with Cooperating Devices: A Consensus Approach,FALSE
-TRUE,TRUE,TRUE,Federated Learning with Cooperating Devices: A Consensus Approach for Massive IoT Networks,TRUE
-TRUE,TRUE,TRUE,Federated Learning with Mutually Cooperating Devices: A Consensus Approach Towards Server-Less Model Optimization,TRUE
-TRUE,TRUE,TRUE,FedLess: Secure and Scalable Federated Learning Using Serverless Computing,TRUE
-TRUE,TRUE,TRUE,FedSmarteum: Secure Federated Matrix Factorization Using Smart Contracts for Multi-Cloud Supply Chain,TRUE
-TRUE,TRUE,TRUE,Gillis: Serving large neural networks in serverless functions with automatic model partitioning,TRUE
-TRUE,TRUE,TRUE,GNOSIS-query-driven multimodal event processing for unstructured data streams,TRUE
-TRUE,TRUE,TRUE,GPU Enabled Serverless Computing Framework,TRUE
-TRUE,TRUE,TRUE,GPU usage estimation of deep learning training function for serverless computing,TRUE
-TRUE,TRUE,TRUE,High performance serverless architecture for deep learning workflows,TRUE
-TRUE,TRUE,TRUE,Highly flexible server agnostic complex event processing operators,TRUE
-TRUE,TRUE,FALSE,"HotCloud 2020 - 12th USENIX Workshop on Hot Topics in Cloud Computing, co-located with USENIX ATC 2020",FALSE
-TRUE,TRUE,FALSE,ICPE 2021 - Companion of the ACM/SPEC International Conference on Performance Engineering,FALSE
-TRUE,TRUE,TRUE,IFaaSBus: A Security- and Privacy-Based Lightweight Framework for Serverless Computing Using IoT and Machine Learning,TRUE
-TRUE,TRUE,TRUE,Implementation of a self-adaptive real time recommendation system using spark machine learning libraries,TRUE
-TRUE,TRUE,TRUE,Implementation of unsupervised k-means clustering algorithm within amazon web services lambda,TRUE
-TRUE,TRUE,TRUE,Implications of Public Cloud Resource Heterogeneity for Inference Serving,TRUE
-TRUE,TRUE,FALSE,"International Conference on Applied Soft Computing and Communication Networks, ACN 2020",FALSE
-TRUE,TRUE,FALSE,"International Conference on High Performance Computing, ISC High Performance 2021",FALSE
-FALSE,TRUE,TRUE,Introduction to Digital Libraries,FALSE
-TRUE,TRUE,TRUE,Le Taureau: Deconstructing the Serverless Landscape & A Look Forward,TRUE
-TRUE,TRUE,TRUE,Leveraging the serverless paradigm for realizing machine learning pipelines across the edge-cloud continuum,TRUE
-TRUE,TRUE,TRUE,Lifelong Machine Learning and root cause analysis for large-scale cancer patient data,TRUE
-TRUE,TRUE,TRUE,Machine learning and price-based load scheduling for an optimal IoT control in the smart and frugal home,TRUE
-TRUE,TRUE,TRUE,Machine learning techniques for enhancing maritime surveillance based on GMTI radar and AIS,TRUE
-TRUE,TRUE,TRUE,"Mark: Exploiting cloud services for cost-effective, slo-aware machine learning inference serving",TRUE
-TRUE,TRUE,FALSE,Middleware 2017 - Proceedings of the 2017 International Middleware Conference,FALSE
-TRUE,TRUE,FALSE,Middleware 2020 - Proceedings of the 2020 21st International Middleware Conference,FALSE
-TRUE,TRUE,TRUE,Migrating Large Deep Learning Models to Serverless Architecture,TRUE
-TRUE,TRUE,TRUE,Modified deep residual network architecture deployed on serverless framework of IoT platform based on human activity recognition application,TRUE
-TRUE,TRUE,FALSE,Monetizing machine learning: Quickly turn Python ML ideas into web applications on the serverless cloud,FALSE
-TRUE,TRUE,TRUE,Monitorless: Predicting performance degradation in cloud applications with machine learning,TRUE
-FALSE,TRUE,TRUE,MPC with machine learning applied to resource allocation problem using lambda architecture,FALSE
-TRUE,TRUE,TRUE,NetflowTotal: A cloud service integration platform for malicious traffic analysis and collaboration,TRUE
-TRUE,TRUE,TRUE,OFC: An opportunistic caching system for FaaS platforms,TRUE
-TRUE,TRUE,TRUE,On the FaaS track: Building stateful distributed applications with serverless architectures,TRUE
-TRUE,TRUE,TRUE,OpenDC 2.0: Convenient modeling and simulation of emerging technologies in cloud datacenters,TRUE
-TRUE,TRUE,TRUE,Optimized container scheduling for data-intensive serverless edge computing,TRUE
-TRUE,TRUE,TRUE,Optimizing serverless computing: Introducing an adaptive function placement algorithm,TRUE
-TRUE,TRUE,TRUE,Performance and cost comparison of cloud services for deep learning workload,TRUE
-TRUE,TRUE,TRUE,Performance Characterization and Modeling of Serverless and HPC Streaming Applications,TRUE
-TRUE,TRUE,TRUE,Pilot-Edge: Distributed Resource Management along the Edge-to-Cloud Continuum,TRUE
-FALSE,TRUE,TRUE,"PODPAC: open-source Python software for enabling harmonized, plug-and-play processing of disparate earth observation data sets and seamless transition onto the serverless cloud by earth scientists",FALSE
-TRUE,TRUE,FALSE,Polly: A Tool for Rapid Data Integration and Analysis in Support of Agricultural Research and Education,FALSE
-TRUE,TRUE,TRUE,Poster: Lambda architecture for robust condition based maintenance with simulated failure modes,TRUE
-TRUE,TRUE,TRUE,Potential Bottleneck and Measuring Performance of Serverless Computing: A Literature Study,TRUE
-TRUE,TRUE,TRUE,Predictive Cyber Foraging for Visual Cloud Computing in Large-Scale IoT Systems,TRUE
-FALSE,TRUE,TRUE,PrivacyFL: A Simulator for Privacy-Preserving and Secure Federated Learning,FALSE
-TRUE,TRUE,FALSE,Pro spark streaming: The zen of real-time analytics using apache spark,FALSE
-TRUE,TRUE,FALSE,"Proceedings - 2019 IEEE 33rd International Parallel and Distributed Processing Symposium Workshops, IPDPSW 2019",FALSE
-TRUE,TRUE,FALSE,"Proceedings - 2019 IEEE International Conference on Cloud Computing, CLOUD 2019 - Part of the 2019 IEEE World Congress on Services",FALSE
-TRUE,TRUE,FALSE,"Proceedings - 2020 IEEE 13th International Conference on Cloud Computing, CLOUD 2020",FALSE
-TRUE,TRUE,FALSE,"Proceedings - 2020 IEEE 22nd International Conference on High Performance Computing and Communications, IEEE 18th International Conference on Smart City and IEEE 6th International Conference on Data Science and Systems, HPCC-SmartCity-DSS 2020",FALSE
-TRUE,TRUE,FALSE,Proceedings - SEKE 2021: 33rd International Conference on Software Engineering and Knowledge Engineering,FALSE
-TRUE,TRUE,FALSE,Proceedings of CISTI 2020 - 15th Iberian Conference on Information Systems and Technologies,FALSE
-TRUE,TRUE,FALSE,"Proceedings of SC 2021: The International Conference for High Performance Computing, Networking, Storage and Analysis: Science and Beyond",FALSE
-TRUE,TRUE,FALSE,"Proceedings of the 36th Annual ACM Symposium on Applied Computing, SAC 2021",FALSE
-TRUE,TRUE,FALSE,"Proceedings of the 7th International Workshop on Serverless Computing, WoSC 2021",FALSE
-TRUE,TRUE,FALSE,"Proceedings of the 8th IEEE/ACM International Conference on Big Data Computing, Applications and Technologies, BDCAT 2021",FALSE
-FALSE,TRUE,TRUE,Production of global daily seamless data cubes and quantification of global land cover change from 1985 to 2020 - iMap World 1.0,FALSE
-TRUE,TRUE,TRUE,Prognostics by classifying degradation stage on lambda architecture,TRUE
-TRUE,TRUE,TRUE,QoS-Aware Workload Distribution in Hierarchical Edge Clouds: A Reinforcement Learning Approach,TRUE
-TRUE,TRUE,TRUE,Quantifying and Improving Performance of Distributed Deep Learning with Cloud Storage,TRUE
-TRUE,TRUE,TRUE,Query-driven video event processing for the internet multimedia things,TRUE
-TRUE,TRUE,TRUE,Real-Time Estimated Time of Arrival Prediction System using Historical Surveillance Data,TRUE
-TRUE,TRUE,TRUE,Real-time visualization of sensor data in smart manufacturing using lambda architecture,TRUE
-FALSE,TRUE,FALSE,Recent Developments in the Design and Implementation of Programming Languages - Gabbrielli's Festschrift,FALSE
-TRUE,TRUE,TRUE,Refactoring of Neural Network Models for Hyperparameter Optimization in Serverless Cloud,TRUE
-TRUE,TRUE,TRUE,Reinforcement learning-assisted autoscaling mechanisms for serverless computing platforms,TRUE
-TRUE,TRUE,TRUE,Reputation-aware Hedonic Coalition Formation for Efficient Serverless Hierarchical Federated Learning,TRUE
-TRUE,TRUE,TRUE,Research on Parallel Support Vector Machine Based on Spark Big Data Platform,TRUE
-TRUE,TRUE,TRUE,Return of the Runtimes: Rethinking the Language Runtime System for the Cloud 3.0 Era,TRUE
-TRUE,TRUE,TRUE,SAMURAI: A batch and streaming context architecture for large-scale intelligent applications and environments,TRUE
-TRUE,TRUE,TRUE,"Scalability and realtime on big data, MapReduce, NoSQL and spark",TRUE
-TRUE,TRUE,TRUE,Scalable IoT solution using cloud services - An automobile industry use case,TRUE
-TRUE,TRUE,TRUE,Scheduling Hardware-Accelerated Cloud Functions,TRUE
-TRUE,TRUE,TRUE,Seneca: Fast and low cost hyperparameter search for machine learning models,TRUE
-TRUE,TRUE,TRUE,Serverless Computing Approach for Deploying Machine Learning Applications in Edge Layer,TRUE
-TRUE,TRUE,TRUE,Serverless data parallelization for training and retraining of deep learning architecture in patient-specific arrhythmia detection,TRUE
-FALSE,TRUE,TRUE,Serverless distributed learning for smart grid analytics,FALSE
-TRUE,TRUE,TRUE,Serverless straggler mitigation using error-correcting codes,TRUE
-TRUE,TRUE,TRUE,Serverless Workflows for Containerised Applications in the Cloud Continuum,TRUE
-TRUE,TRUE,TRUE,Serving deep learning models in a serverless platform,TRUE
-TRUE,TRUE,TRUE,Serving machine learning workloads in resource constrained environments: A serverless deployment example,TRUE
-FALSE,TRUE,TRUE,"Sharing learnings: The methodology, optimisation and benefits of moving subsurface data to the public cloud",FALSE
-TRUE,TRUE,TRUE,Short paper: Tigeraware assistant: A new serverless implementation of conversational agents for customizable surveys on smart devices,TRUE
-TRUE,TRUE,TRUE,SLA for Sequential Serverless Chains: A Machine Learning Approach,TRUE
-TRUE,TRUE,TRUE,SLA-Aware Workload Scheduling Using Hybrid Cloud Services,TRUE
-TRUE,TRUE,TRUE,SLATE: Managing heterogeneous cloud functions,TRUE
-TRUE,TRUE,TRUE,Software Architecture Design of the Real- Time Processes Monitoring Platform,TRUE
-TRUE,TRUE,TRUE,Soil Analysis and its Type Prediction with Speech Enabled Output using IoT and AWS,TRUE
-TRUE,TRUE,TRUE,STOIC: Serverless Teleoperable Hybrid Cloud for Machine Learning Applications on Edge Device,TRUE
-TRUE,TRUE,TRUE,Stratum: A serverless framework for the lifecycle management of machine learning-based data analytics tasks,TRUE
-TRUE,TRUE,FALSE,SYSTOR 2018 - Proceedings of the 11th ACM International Systems and Storage Conference,FALSE
-TRUE,TRUE,TRUE,TableNN: Deep Learning Framework for Learning Domain Specific Tabular Data,TRUE
-TRUE,TRUE,TRUE,The Changing Role of the Software Engineer,TRUE
-TRUE,TRUE,TRUE,The next generation cognitive security operations center: Adaptive analytic lambda architecture for efficient defense against adversarial attacks,TRUE
-TRUE,TRUE,TRUE,Toci: Computational Intelligence in an Energy Management System,TRUE
-TRUE,TRUE,FALSE,Toward information system architecture to support predictive maintenance approach,FALSE
-TRUE,TRUE,TRUE,Toward Sustainable Serverless Computing,TRUE
-TRUE,TRUE,TRUE,Towards Demystifying Serverless Machine Learning Training,TRUE
-TRUE,TRUE,TRUE,Towards Federated Learning using FaaS Fabric,TRUE
-TRUE,TRUE,TRUE,Towards predicting frailty symptoms through a smart walking stick,TRUE
-TRUE,TRUE,TRUE,Towards situational awareness with multimodal streaming data fusion: Serverless computing approach,TRUE
-TRUE,TRUE,TRUE,Towards the Use of Generative Adversarial Neural Networks to Attack Online Resources,TRUE
-TRUE,TRUE,TRUE,TrIMS: Transparent and isolated model sharing for low latency deep learning inference in function-as-a-service,TRUE
-TRUE,TRUE,TRUE,Using cloud tools for literate programming to redesign an ai course for non-traditional college students,TRUE
-TRUE,TRUE,TRUE,VideoPipe: Building video stream processing pipelines at the edge,TRUE
-TRUE,TRUE,TRUE,WidePipe: High-Throughput Deep Learning Inference System on a Cluster of Neural Processing Units,TRUE
-TRUE,TRUE,TRUE,You Do Not Need a bigger boat: Recommendations at Reasonable Scale in a (Mostly) serverless and open stack,TRUE
+Computer Science?;English?;CP or Article?;Title;Admitted
+FAUX;VRAI;FAUX;10th International Conference on Computer Science and its Applications, CSA 2018 and the 13th KIPS International Conference on Ubiquitous Information Technologies and Applications, CUTE 2018;FAUX
+VRAI;VRAI;FAUX;12th Annual ACM Symposium on Cloud Computing, SoCC 2021;FAUX
+VRAI;VRAI;FAUX;15th International Conference on Service-Oriented Computing, ICSOC 2017;FAUX
+VRAI;VRAI;FAUX;17th International Conference on Web Engineering, ICWE 2017;FAUX
+FAUX;VRAI;FAUX;1st EAGE Digital Subsurface Conference in Latin America;FAUX
+VRAI;VRAI;FAUX;2021 ITU Kaleidoscope: Connecting Physical and Virtual Worlds, ITU K 2021;FAUX
+VRAI;VRAI;FAUX;20th International Conference on Engineering Applications of Neural Networks, EANN 2019;FAUX
+FAUX;FAUX;FAUX;21st century daily seamless data cube reconstruction and seasonal to annual land cover and land use dynamics mapping-iMap (China) 1.0 [21??????????????????????????????????-????????iMap (China) 1.0];FAUX
+VRAI;VRAI;FAUX;4th International Conference on Smart Computing and Informatics, SCI 2020;FAUX
+VRAI;VRAI;FAUX;7th International Congress on Big Data, BigData 2018 Held as Part of the Services Conference Federation, SCF 2018;FAUX
+FAUX;VRAI;VRAI;A Cloud-Based Computing Framework for Artificial Intelligence Innovation in Support of Multidomain Operations;FAUX
+VRAI;VRAI;VRAI;A cloud-based framework for machine learning workloads and applications;VRAI
+VRAI;VRAI;VRAI;A conceptual framework for building a mobile services' recommendation engine;VRAI
+VRAI;VRAI;VRAI;A Deep Intrusion Detection System in Lambda Architecture Based on Edge Cloud Computing for IoT;VRAI
+VRAI;VRAI;VRAI;A machine hearing framework for real-time streaming analytics using lambda architecture;VRAI
+VRAI;VRAI;VRAI;A machine learning model on virtual university of senegal�s educational data based on lambda architecture.;VRAI
+VRAI;VRAI;VRAI;A Machine Learning-Based Approach for Efficient Cloud Service Selection;VRAI
+VRAI;VRAI;VRAI;A migration-based approach to execute long-duration multi-cloud serverless functions;VRAI
+VRAI;VRAI;VRAI;A Recurrent Neural Network Based Approach for Web Service QoS Prediction;VRAI
+VRAI;VRAI;VRAI;A Scalable Cloud-based Architecture to Deploy JupyterHub for Computational Social Science Research;VRAI
+VRAI;VRAI;VRAI;A serverless gateway for event-driven machine learning inference in multiple clouds;VRAI
+FAUX;VRAI;VRAI;A TinyML Platform for On-Device Continual Learning with Quantized Latent Replays;FAUX
+VRAI;VRAI;VRAI;A Unified Framework for 5G Network Management Tools;VRAI
+VRAI;VRAI;VRAI;Accelerated serverless computing based on GPU virtualization;VRAI
+VRAI;VRAI;VRAI;Adaptive and Efficient Streaming Time Series Forecasting with Lambda Architecture and Spark;VRAI
+VRAI;VRAI;VRAI;AI on the Move: From On-Device to On-Multi-Device;VRAI
+VRAI;VRAI;VRAI;AMPS-Inf: Automatic Model Partitioning for Serverless Inference with Cost Efficiency;VRAI
+FAUX;VRAI;VRAI;An efficient distributed data processing method for smart environment;FAUX
+FAUX;VRAI;VRAI;An efficient distributed data processing method for smooth environment;FAUX
+VRAI;VRAI;VRAI;An empirical study on challenges of application development in serverless computing;VRAI
+VRAI;VRAI;VRAI;An Improved Task Allocation Scheme in Serverless Computing Using Gray Wolf Optimization (GWO) Based Reinforcement Learning (RIL) Approach;VRAI
+VRAI;VRAI;VRAI;An Intelligent Doorbell Design Using Federated Deep Learning;VRAI
+VRAI;VRAI;VRAI;Anticipation and alert system of congestion and accidents in VANET using Big Data analysis for Intelligent Transportation Systems;VRAI
+VRAI;VRAI;VRAI;Architectural vision of cloud computing in the indian government;VRAI
+VRAI;VRAI;VRAI;AssistantGraph: An approach for reusable and composable data-driven assistant components;VRAI
+VRAI;VRAI;VRAI;Automatic Hyperparameter Optimization for Arbitrary Neural Networks in Serverless AWS Cloud;VRAI
+VRAI;VRAI;VRAI;Automatic Tuning of Hyperparameters for Neural Networks in Serverless Cloud;VRAI
+VRAI;VRAI;FAUX;Azure internet of things revealed: Architecture and fundamentals;FAUX
+VRAI;VRAI;VRAI;BARISTA: Efficient and scalable serverless serving system for deep learning prediction services;VRAI
+VRAI;VRAI;VRAI;Batch: Machine learning inference serving on serverless platforms with adaptive batching;VRAI
+VRAI;VRAI;VRAI;Behavior analysis using serverless machine learning;VRAI
+VRAI;VRAI;VRAI;Big Data Ingestion and Lifelong Learning Architecture;VRAI
+VRAI;VRAI;VRAI;Big data machine learning and graph analytics: Current state and future challenges;VRAI
+VRAI;VRAI;VRAI;Big Data Processing at Microsoft: Hyper Scale, Massive Complexity, and Minimal Cost;VRAI
+VRAI;VRAI;VRAI;Big data technology to exploit climate information/consumption models and to predict future behaviours;VRAI
+VRAI;VRAI;VRAI;Big-data architecture for electrical consumption forecasting in educational institutions buildings;VRAI
+VRAI;VRAI;VRAI;Bighead: A framework-agnostic, end-to-end machine learning platform;VRAI
+VRAI;VRAI;VRAI;Bringing AI to the edge: A formal M&S specification to deploy effective IoT architectures;VRAI
+VRAI;VRAI;VRAI;Cirrus: A Serverless Framework for End-To-end ML Workflows;VRAI
+VRAI;VRAI;FAUX;CLOSER 2020 - Proceedings of the 10th International Conference on Cloud Computing and Services Science;FAUX
+VRAI;VRAI;VRAI;Combining machine learning and semantics for anomaly detection;VRAI
+VRAI;VRAI;VRAI;Comparative study of real time machine learning models for stock prediction through streaming data;VRAI
+VRAI;VRAI;VRAI;Contention-aware container placement strategy for docker swarm with machine learning based clustering algorithms;VRAI
+VRAI;VRAI;VRAI;Context agnostic trajectory prediction based on ?-architecture;VRAI
+VRAI;VRAI;VRAI;Cost-Effective Malware Detection as a Service over Serverless Cloud Using Deep Reinforcement Learning;VRAI
+VRAI;VRAI;VRAI;Cross-Platform Performance Evaluation of Stateful Serverless Workflows;VRAI
+VRAI;VRAI;FAUX;DEBS 2021 - Proceedings of the 15th ACM International Conference on Distributed and Event-Based Systems;FAUX
+VRAI;VRAI;VRAI;Deep learning architectures in emerging cloud computing architectures: Recent development, challenges and next research trend;VRAI
+VRAI;VRAI;VRAI;Deployment and Management of Time Series Forecasts in Ocean Industry;VRAI
+VRAI;VRAI;VRAI;DevOps and Quality Management in Serverless Computing: The RADON Approach;VRAI
+VRAI;VRAI;VRAI;Distributed double machine learning with a serverless architecture;VRAI
+VRAI;VRAI;VRAI;Distributed Machine Learning with a Serverless Architecture;VRAI
+VRAI;VRAI;VRAI;Dorylus: Affordable, scalable, and accurate GNN training with distributed CPU servers and serverless threads;VRAI
+VRAI;VRAI;VRAI;Edge-adaptable serverless acceleration for machine learning Internet of Things applications;VRAI
+VRAI;VRAI;VRAI;Efficient GPU Sharing for Serverless Workflows;VRAI
+VRAI;VRAI;VRAI;Enabling Cost-Effective, SLO-Aware Machine Learning Inference Serving on Public Cloud;VRAI
+VRAI;VRAI;VRAI;Enhancing automated FaaS with cost-aware provisioning of cloud resources;VRAI
+VRAI;VRAI;VRAI;Evaluating webassembly enabled serverless approach for edge computing;VRAI
+VRAI;VRAI;VRAI;Event-driven framework for detecting unusual patterns in AAL environments;VRAI
+VRAI;VRAI;VRAI;Exploring Serverless Computing for Neural Network Training;VRAI
+VRAI;VRAI;VRAI;FAASM: Lightweight isolation for efficient stateful serverless computing;VRAI
+VRAI;VRAI;VRAI;FaaSRank: Learning to Schedule Functions in Serverless Platforms;VRAI
+VRAI;VRAI;VRAI;FaaStest - Machine learning based cost and performance FaaS optimization;VRAI
+VRAI;VRAI;FAUX;Federated Learning with Cooperating Devices: A Consensus Approach;FAUX
+VRAI;VRAI;VRAI;Federated Learning with Cooperating Devices: A Consensus Approach for Massive IoT Networks;VRAI
+VRAI;VRAI;VRAI;Federated Learning with Mutually Cooperating Devices: A Consensus Approach Towards Server-Less Model Optimization;VRAI
+VRAI;VRAI;VRAI;FedLess: Secure and Scalable Federated Learning Using Serverless Computing;VRAI
+VRAI;VRAI;VRAI;FedSmarteum: Secure Federated Matrix Factorization Using Smart Contracts for Multi-Cloud Supply Chain;VRAI
+VRAI;VRAI;VRAI;Gillis: Serving large neural networks in serverless functions with automatic model partitioning;VRAI
+VRAI;VRAI;VRAI;GNOSIS-query-driven multimodal event processing for unstructured data streams;VRAI
+VRAI;VRAI;VRAI;GPU Enabled Serverless Computing Framework;VRAI
+VRAI;VRAI;VRAI;GPU usage estimation of deep learning training function for serverless computing;VRAI
+VRAI;VRAI;VRAI;High performance serverless architecture for deep learning workflows;VRAI
+VRAI;VRAI;VRAI;Highly flexible server agnostic complex event processing operators;VRAI
+VRAI;VRAI;FAUX;HotCloud 2020 - 12th USENIX Workshop on Hot Topics in Cloud Computing, co-located with USENIX ATC 2020;FAUX
+VRAI;VRAI;FAUX;ICPE 2021 - Companion of the ACM/SPEC International Conference on Performance Engineering;FAUX
+VRAI;VRAI;VRAI;IFaaSBus: A Security- and Privacy-Based Lightweight Framework for Serverless Computing Using IoT and Machine Learning;VRAI
+VRAI;VRAI;VRAI;Implementation of a self-adaptive real time recommendation system using spark machine learning libraries;VRAI
+VRAI;VRAI;VRAI;Implementation of unsupervised k-means clustering algorithm within amazon web services lambda;VRAI
+VRAI;VRAI;VRAI;Implications of Public Cloud Resource Heterogeneity for Inference Serving;VRAI
+VRAI;VRAI;FAUX;International Conference on Applied Soft Computing and Communication Networks, ACN 2020;FAUX
+VRAI;VRAI;FAUX;International Conference on High Performance Computing, ISC High Performance 2021;FAUX
+FAUX;VRAI;VRAI;Introduction to Digital Libraries;FAUX
+VRAI;VRAI;VRAI;Le Taureau: Deconstructing the Serverless Landscape & A Look Forward;VRAI
+VRAI;VRAI;VRAI;Leveraging the serverless paradigm for realizing machine learning pipelines across the edge-cloud continuum;VRAI
+VRAI;VRAI;VRAI;Lifelong Machine Learning and root cause analysis for large-scale cancer patient data;VRAI
+VRAI;VRAI;VRAI;Machine learning and price-based load scheduling for an optimal IoT control in the smart and frugal home;VRAI
+VRAI;VRAI;VRAI;Machine learning techniques for enhancing maritime surveillance based on GMTI radar and AIS;VRAI
+VRAI;VRAI;VRAI;Mark: Exploiting cloud services for cost-effective, slo-aware machine learning inference serving;VRAI
+VRAI;VRAI;FAUX;Middleware 2017 - Proceedings of the 2017 International Middleware Conference;FAUX
+VRAI;VRAI;FAUX;Middleware 2020 - Proceedings of the 2020 21st International Middleware Conference;FAUX
+VRAI;VRAI;VRAI;Migrating Large Deep Learning Models to Serverless Architecture;VRAI
+VRAI;VRAI;VRAI;Modified deep residual network architecture deployed on serverless framework of IoT platform based on human activity recognition application;VRAI
+VRAI;VRAI;FAUX;Monetizing machine learning: Quickly turn Python ML ideas into web applications on the serverless cloud;FAUX
+VRAI;VRAI;VRAI;Monitorless: Predicting performance degradation in cloud applications with machine learning;VRAI
+FAUX;VRAI;VRAI;MPC with machine learning applied to resource allocation problem using lambda architecture;FAUX
+VRAI;VRAI;VRAI;NetflowTotal: A cloud service integration platform for malicious traffic analysis and collaboration;VRAI
+VRAI;VRAI;VRAI;OFC: An opportunistic caching system for FaaS platforms;VRAI
+VRAI;VRAI;VRAI;On the FaaS track: Building stateful distributed applications with serverless architectures;VRAI
+VRAI;VRAI;VRAI;OpenDC 2.0: Convenient modeling and simulation of emerging technologies in cloud datacenters;VRAI
+VRAI;VRAI;VRAI;Optimized container scheduling for data-intensive serverless edge computing;VRAI
+VRAI;VRAI;VRAI;Optimizing serverless computing: Introducing an adaptive function placement algorithm;VRAI
+VRAI;VRAI;VRAI;Performance and cost comparison of cloud services for deep learning workload;VRAI
+VRAI;VRAI;VRAI;Performance Characterization and Modeling of Serverless and HPC Streaming Applications;VRAI
+VRAI;VRAI;VRAI;Pilot-Edge: Distributed Resource Management along the Edge-to-Cloud Continuum;VRAI
+FAUX;VRAI;VRAI;PODPAC: open-source Python software for enabling harmonized, plug-and-play processing of disparate earth observation data sets and seamless transition onto the serverless cloud by earth scientists;FAUX
+VRAI;VRAI;FAUX;Polly: A Tool for Rapid Data Integration and Analysis in Support of Agricultural Research and Education;FAUX
+VRAI;VRAI;VRAI;Poster: Lambda architecture for robust condition based maintenance with simulated failure modes;VRAI
+VRAI;VRAI;VRAI;Potential Bottleneck and Measuring Performance of Serverless Computing: A Literature Study;VRAI
+VRAI;VRAI;VRAI;Predictive Cyber Foraging for Visual Cloud Computing in Large-Scale IoT Systems;VRAI
+FAUX;VRAI;VRAI;PrivacyFL: A Simulator for Privacy-Preserving and Secure Federated Learning;FAUX
+VRAI;VRAI;FAUX;Pro spark streaming: The zen of real-time analytics using apache spark;FAUX
+VRAI;VRAI;FAUX;Proceedings - 2019 IEEE 33rd International Parallel and Distributed Processing Symposium Workshops, IPDPSW 2019;FAUX
+VRAI;VRAI;FAUX;Proceedings - 2019 IEEE International Conference on Cloud Computing, CLOUD 2019 - Part of the 2019 IEEE World Congress on Services;FAUX
+VRAI;VRAI;FAUX;Proceedings - 2020 IEEE 13th International Conference on Cloud Computing, CLOUD 2020;FAUX
+VRAI;VRAI;FAUX;Proceedings - 2020 IEEE 22nd International Conference on High Performance Computing and Communications, IEEE 18th International Conference on Smart City and IEEE 6th International Conference on Data Science and Systems, HPCC-SmartCity-DSS 2020;FAUX
+VRAI;VRAI;FAUX;Proceedings - SEKE 2021: 33rd International Conference on Software Engineering and Knowledge Engineering;FAUX
+VRAI;VRAI;FAUX;Proceedings of CISTI 2020 - 15th Iberian Conference on Information Systems and Technologies;FAUX
+VRAI;VRAI;FAUX;Proceedings of SC 2021: The International Conference for High Performance Computing, Networking, Storage and Analysis: Science and Beyond;FAUX
+VRAI;VRAI;FAUX;Proceedings of the 36th Annual ACM Symposium on Applied Computing, SAC 2021;FAUX
+VRAI;VRAI;FAUX;Proceedings of the 7th International Workshop on Serverless Computing, WoSC 2021;FAUX
+VRAI;VRAI;FAUX;Proceedings of the 8th IEEE/ACM International Conference on Big Data Computing, Applications and Technologies, BDCAT 2021;FAUX
+FAUX;VRAI;VRAI;Production of global daily seamless data cubes and quantification of global land cover change from 1985 to 2020 - iMap World 1.0;FAUX
+VRAI;VRAI;VRAI;Prognostics by classifying degradation stage on lambda architecture;VRAI
+VRAI;VRAI;VRAI;QoS-Aware Workload Distribution in Hierarchical Edge Clouds: A Reinforcement Learning Approach;VRAI
+VRAI;VRAI;VRAI;Quantifying and Improving Performance of Distributed Deep Learning with Cloud Storage;VRAI
+VRAI;VRAI;VRAI;Query-driven video event processing for the internet multimedia things;VRAI
+VRAI;VRAI;VRAI;Real-Time Estimated Time of Arrival Prediction System using Historical Surveillance Data;VRAI
+VRAI;VRAI;VRAI;Real-time visualization of sensor data in smart manufacturing using lambda architecture;VRAI
+FAUX;VRAI;FAUX;Recent Developments in the Design and Implementation of Programming Languages - Gabbrielli's Festschrift;FAUX
+VRAI;VRAI;VRAI;Refactoring of Neural Network Models for Hyperparameter Optimization in Serverless Cloud;VRAI
+VRAI;VRAI;VRAI;Reinforcement learning-assisted autoscaling mechanisms for serverless computing platforms;VRAI
+VRAI;VRAI;VRAI;Reputation-aware Hedonic Coalition Formation for Efficient Serverless Hierarchical Federated Learning;VRAI
+VRAI;VRAI;VRAI;Research on Parallel Support Vector Machine Based on Spark Big Data Platform;VRAI
+VRAI;VRAI;VRAI;Return of the Runtimes: Rethinking the Language Runtime System for the Cloud 3.0 Era;VRAI
+VRAI;VRAI;VRAI;SAMURAI: A batch and streaming context architecture for large-scale intelligent applications and environments;VRAI
+VRAI;VRAI;VRAI;Scalability and realtime on big data, MapReduce, NoSQL and spark;VRAI
+VRAI;VRAI;VRAI;Scalable IoT solution using cloud services - An automobile industry use case;VRAI
+VRAI;VRAI;VRAI;Scheduling Hardware-Accelerated Cloud Functions;VRAI
+VRAI;VRAI;VRAI;Seneca: Fast and low cost hyperparameter search for machine learning models;VRAI
+VRAI;VRAI;VRAI;Serverless Computing Approach for Deploying Machine Learning Applications in Edge Layer;VRAI
+VRAI;VRAI;VRAI;Serverless data parallelization for training and retraining of deep learning architecture in patient-specific arrhythmia detection;VRAI
+FAUX;VRAI;VRAI;Serverless distributed learning for smart grid analytics;FAUX
+VRAI;VRAI;VRAI;Serverless straggler mitigation using error-correcting codes;VRAI
+VRAI;VRAI;VRAI;Serverless Workflows for Containerised Applications in the Cloud Continuum;VRAI
+VRAI;VRAI;VRAI;Serving deep learning models in a serverless platform;VRAI
+VRAI;VRAI;VRAI;Serving machine learning workloads in resource constrained environments: A serverless deployment example;VRAI
+FAUX;VRAI;VRAI;Sharing learnings: The methodology, optimisation and benefits of moving subsurface data to the public cloud;FAUX
+VRAI;VRAI;VRAI;Short paper: Tigeraware assistant: A new serverless implementation of conversational agents for customizable surveys on smart devices;VRAI
+VRAI;VRAI;VRAI;SLA for Sequential Serverless Chains: A Machine Learning Approach;VRAI
+VRAI;VRAI;VRAI;SLA-Aware Workload Scheduling Using Hybrid Cloud Services;VRAI
+VRAI;VRAI;VRAI;SLATE: Managing heterogeneous cloud functions;VRAI
+VRAI;VRAI;VRAI;Software Architecture Design of the Real- Time Processes Monitoring Platform;VRAI
+VRAI;VRAI;VRAI;Soil Analysis and its Type Prediction with Speech Enabled Output using IoT and AWS;VRAI
+VRAI;VRAI;VRAI;STOIC: Serverless Teleoperable Hybrid Cloud for Machine Learning Applications on Edge Device;VRAI
+VRAI;VRAI;VRAI;Stratum: A serverless framework for the lifecycle management of machine learning-based data analytics tasks;VRAI
+VRAI;VRAI;FAUX;SYSTOR 2018 - Proceedings of the 11th ACM International Systems and Storage Conference;FAUX
+VRAI;VRAI;VRAI;TableNN: Deep Learning Framework for Learning Domain Specific Tabular Data;VRAI
+VRAI;VRAI;VRAI;The Changing Role of the Software Engineer;VRAI
+VRAI;VRAI;VRAI;The next generation cognitive security operations center: Adaptive analytic lambda architecture for efficient defense against adversarial attacks;VRAI
+VRAI;VRAI;VRAI;Toci: Computational Intelligence in an Energy Management System;VRAI
+VRAI;VRAI;FAUX;Toward information system architecture to support predictive maintenance approach;FAUX
+VRAI;VRAI;VRAI;Toward Sustainable Serverless Computing;VRAI
+VRAI;VRAI;VRAI;Towards Demystifying Serverless Machine Learning Training;VRAI
+VRAI;VRAI;VRAI;Towards Federated Learning using FaaS Fabric;VRAI
+VRAI;VRAI;VRAI;Towards predicting frailty symptoms through a smart walking stick;VRAI
+VRAI;VRAI;VRAI;Towards situational awareness with multimodal streaming data fusion: Serverless computing approach;VRAI
+VRAI;VRAI;VRAI;Towards the Use of Generative Adversarial Neural Networks to Attack Online Resources;VRAI
+VRAI;VRAI;VRAI;TrIMS: Transparent and isolated model sharing for low latency deep learning inference in function-as-a-service;VRAI
+VRAI;VRAI;VRAI;Using cloud tools for literate programming to redesign an ai course for non-traditional college students;VRAI
+VRAI;VRAI;VRAI;VideoPipe: Building video stream processing pipelines at the edge;VRAI
+VRAI;VRAI;VRAI;WidePipe: High-Throughput Deep Learning Inference System on a Cluster of Neural Processing Units;VRAI
+VRAI;VRAI;VRAI;You Do Not Need a bigger boat: Recommendations at Reasonable Scale in a (Mostly) serverless and open stack;VRAI
+VRAI;VRAI;VRAI;BBServerless: A Bursty Traffic Benchmark for Serverless;VRAI
+VRAI;VRAI;VRAI;Distributed Task Scheduling in Serverless Edge Computing Networks for the Internet of Things: A Learning Approach;VRAI
+VRAI;VRAI;FAUX;13th International Conference on ICT Innovations, ICT Innovations 2021;FAUX
+VRAI;VRAI;VRAI;Astrea: Auto-Serverless Analytics towards Cost-Efficiency and QoS-Awareness;VRAI
+VRAI;VRAI;VRAI;An efficient system using implicit feedback and lifelong learning approach to improve recommendation;VRAI
+VRAI;VRAI;FAUX;Proceedings of the 25th Conference on Innovation in Clouds, Internet and Networks, ICIN 2022;FAUX
+VRAI;VRAI;VRAI;INFless: A native serverless system for low-latency, high-Throughput inference;VRAI
+VRAI;VRAI;VRAI;Reinforcement learning-assisted autoscaling mechanisms for serverless computing platforms;VRAI
+VRAI;VRAI;FAUX;PPoPP 2022 - Proceedings of the 27th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming;FAUX
+VRAI;VRAI;FAUX;EuroMLSys 2022 - Proceedings of the 2nd European Workshop on Machine Learning and Systems;FAUX
+VRAI;VRAI;VRAI;Accelerating Serverless Computing by Harvesting Idle Resources;VRAI
+VRAI;VRAI;VRAI;IFaaSBus: A Security- and Privacy-Based Lightweight Framework for Serverless Computing Using IoT and Machine Learning;VRAI
+VRAI;VRAI;VRAI;Stateful Serverless Computing with Crucial;VRAI
+VRAI;VRAI;VRAI;AI for next generation computing: Emerging trends and future directions;VRAI
+VRAI;VRAI;VRAI;Reputation-Aware Hedonic Coalition Formation for Efficient Serverless Hierarchical Federated Learning;VRAI
