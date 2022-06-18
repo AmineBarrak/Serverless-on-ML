@@ -135,3 +135,14 @@ REJECTED;Hwang M., Williamson C.;Using cloud tools for literate programming to r
 REJECTED;Salehe M., Hu Z., Mortazavi S.H., Capes T., Mohomed I.;VideoPipe: Building video stream processing pipelines at the edge;2019
 ACCEPTED;Ma L., Shao E., Zhou Y., Tan G.;WidePipe: High-Throughput Deep Learning Inference System on a Cluster of Neural Processing Units;2021
 ACCEPTED;Tagliabue J.;You Do Not Need a bigger boat: Recommendations at Reasonable Scale in a (Mostly) serverless and open stack;2021
+ACCEPTED;Ng J.S., Lim W.Y.B., Xiong Z., Cao X., Jin J., Niyato D., Leung C., Miao C.;Reputation-Aware Hedonic Coalition Formation for Efficient Serverless Hierarchical Federated Learning;2022
+REJECTED;Gill S.S., Xu M., Ottaviani C., Patros P., Bahsoon R., Shaghaghi A., Golec M., Stankovski V., Wu H., Abraham A., Singh M., Mehta H., Ghosh S.K., Baker T., Parlikad A.K., Lutfiyya H., Kanhere S.S., Sakellariou R., Dustdar S., Rana O., Brandic I., Uhlig S.;AI for next generation computing: Emerging trends and future directions;2022
+ACCEPTED;Barcelona-Pons D., Sutra P., Sánchez-Artigas M., París G., García-López P.;Stateful Serverless Computing with Crucial;2022
+ACCEPTED;Golec M., Ozturac R., Pooranian Z., Gill S.S., Buyya R.;IFaaSBus: A Security- and Privacy-Based Lightweight Framework for Serverless Computing Using IoT and Machine Learning;2022
+ACCEPTED;Yu H., Wang H., Li J., Yuan X., Park S.-J.;Accelerating Serverless Computing by Harvesting Idle Resources;2022
+ACCEPTED;Zafeiropoulos A., Fotopoulou E., Filinis N., Papavassiliou S.;Reinforcement learning-assisted autoscaling mechanisms for serverless computing platforms;2022
+ACCEPTED;Yang Y., Zhao L., Li Y., Zhang H., Li J., Zhao M., Chen X., Li K.;INFless: A native serverless system for low-latency, high-Throughput inference;2022
+REJECTED;Pal G.;An efficient system using implicit feedback and lifelong learning approach to improve recommendation;2022
+ACCEPTED;Jarachanthan J., Chen L., Xu F., Li B.;Astrea: Auto-Serverless Analytics towards Cost-Efficiency and QoS-Awareness;2022
+ACCEPTED;Tang Q., Xie R., Yu F.R., Chen T., Zhang R., Huang T., Liu Y.;Distributed Task Scheduling in Serverless Edge Computing Networks for the Internet of Things: A Learning Approach;2022
+REJECTED;Lin Y., Ye K., Li Y., Lin P., Tang Y., Xu C.;BBServerless: A Bursty Traffic Benchmark for Serverless;2022
